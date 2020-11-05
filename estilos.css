@@ -1,0 +1,69 @@
+.titulo{
+    text-align: center;
+    font-size: xx-large;
+    font-family: fantasy;
+    
+}
+
+.menu{
+   text-align: center;
+    padding: 20px;
+    background-color: cadetblue;
+    width: 100;
+}
+.alineacion{
+    text-align: center;
+    font-size: xx-large;
+    
+
+}
+.tabla{
+    
+    width: 80%;
+    margin: 0 auto;
+    align-content: center;
+   
+}
+.body{
+
+    text-align: justify;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    height: 80%;
+    width: 80%;
+   
+}
+.imagen{
+
+  height: 350px;
+  width: 380px;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+   
+}
+.imagen3{
+
+    height: 120px;
+    width: 100px;
+     
+  }
+.imagen2{
+
+    height: 200px;
+    width: 280px;
+         
+  }
+  .filas{
+
+    background-color: rgb(169, 197, 223);
+     
+  }
+  .columnas{
+
+   background-color: rgb(245, 242, 238);
+     
+  }
+
